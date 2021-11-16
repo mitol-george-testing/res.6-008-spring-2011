@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e375d565-270c-0d19-9532-fa4b28cf4b5c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Digital Signal Processing",
+  "course_description": "This course was developed in 1987 by the MIT Center for Advanced Engineering Studies. It was designed as a distance-education course for engineers and scientists in the workplace.\n\nAdvances in integrated circuit technology have had a major impact on the technical areas to which digital signal processing techniques and hardware are being applied. A thorough understanding of digital signal processing fundamentals and techniques is essential for anyone whose work is concerned with signal processing applications.\n\nDigital Signal Processing begins with a discussion of the analysis and representation of discrete-time signal systems, including discrete-time convolution, difference equations, the z-transform, and the discrete-time Fourier transform. Emphasis is placed on the similarities and distinctions between discrete-time. The course proceeds to cover digital network and nonrecursive (finite impulse response) digital filters. Digital Signal Processing concludes with digital filter design and a discussion of the fast Fourier transform algorithm for computation of the discrete Fourier transform.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.6-008",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
